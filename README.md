@@ -39,7 +39,7 @@ You can [deploy this application to IBM Cloud](https://cloud.ibm.com/devops/setu
 </p>
 
 Click **Deploy to IBM Cloud** to deploy this same application to IBM Cloud. This option creates a deployment pipeline, complete with a hosted GitLab project and a DevOps toolchain. You can deploy your app to Virtual Server (Virtual Machine).
-[For More Details Refer](https://github.com/open-toolchain/simple-vsi-toolchain/blob/master/README.md)
+[ Cleick here for More Details](https://github.com/open-toolchain/simple-vsi-toolchain/blob/master/README.md)
 
 ### Building Locally
 

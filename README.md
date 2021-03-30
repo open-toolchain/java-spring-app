@@ -62,27 +62,6 @@ To build and run an application:
 
 You can verify the state of your locally running application using the Selenium UI test script included in the `scripts` directory.
 
-#### IBM Cloud Developer Tools
-
-Install [IBM Cloud Developer Tools](https://cloud.ibm.com/docs/cli?topic=cloud-cli-getting-started) on your machine by running the following command:
-```
-curl -sL https://ibm.biz/idt-installer | bash
-```
-
-Create an application on IBM Cloud by running:
-
-```bash
-ibmcloud dev create
-```
-
-This will create and download a starter application with the necessary files needed for local development and deployment.
-You can build and debug your app locally with:
-
-```bash
-ibmcloud dev build --debug
-ibmcloud dev debug
-```
-
 ## Next Steps
 * Learn more about augmenting your Java applications on IBM Cloud with the [Java Programming Guide](https://cloud.ibm.com/docs/java?topic=java-getting-started).
 * Explore other [sample applications](https://cloud.ibm.com/developer/appservice/starter-kits) on IBM Cloud.

@@ -1,4 +1,5 @@
-set -e
+#!/bin/bash
+set -e -o pipefail
 for i in {1..5}
     do
         echo "Doing Health check. Attempt Number: ${i}"

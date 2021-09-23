@@ -1,3 +1,4 @@
+#!/bin/bash
 ######################################################################################
 # File: acceptance-tests.sh                                                          #
 # Description: This File contains all the acceptance tests for the Deployed app      #

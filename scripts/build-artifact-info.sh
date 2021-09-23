@@ -1,3 +1,4 @@
+#!/bin/bash
 cd binaries
 mv *.jar ${APPNAME}.jar
           

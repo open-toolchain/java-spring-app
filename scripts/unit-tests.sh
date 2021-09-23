@@ -1,3 +1,5 @@
+#!/bin/bash
+set -e -o pipefail
 mvn -Dmaven.repo.local=./m2/repository clean test;
 mkdir test-results
 cp -r target/* test-results/

@@ -1,22 +1,6 @@
 [
-  {
-    "cve": "SNYK-JAVA-ORGSPRINGFRAMEWORK-2329097",
+    {
+    "cve": "SNYK-JAVA-ORGSPRINGFRAMEWORK-2689634",
     "alwaysOmit": true
-  },
-  {
-    "cve": "SNYK-JAVA-ORGSPRINGFRAMEWORK-2434828",
-    "alwaysOmit": true
-  },
-  {
-    "cve": "SNYK-JAVA-ORGAPACHETOMCATEMBED-2414084",
-    "alwaysOmit": true
-  },
-  {
-    "cve": "SNYK-JAVA-CHQOSLOGBACK-1726923",
-    "alwaysOmit": true
-  },
-  {
-    "cve": "SNYK-JAVA-ORGSPRINGFRAMEWORK-2436751",
-    "alwaysOmit": true
-  }
+    }
 ]

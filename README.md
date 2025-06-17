@@ -15,8 +15,9 @@
     <img src="https://img.shields.io/badge/license-Apache2-blue.svg?style=flat" alt="Apache 2">
 </p>
 
+### Vulnerabilities may be addressed at a future date and app is provided as is, not production but sample code.
 
-# Create and deploy a basic Java Spring application
+> **DISCLAIMER**: Vulnerabilities may be addressed at a future date and app is provided as is, not production but sample code.
 
 In this sample application, you will create a basic Java cloud application using Spring. This provides a good starting point for creating Java microservice applications running on [Spring](https://spring.io/). It contains no default application code, but comes with standard best practices, including a health check.
 
